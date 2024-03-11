@@ -1,0 +1,9 @@
+{
+    "domain": "snapmakera350",
+    "name": "Snapmaker A350 Integration",
+    "documentation": "",
+    "dependencies": [],
+    "codeowners": ["@CCarpo"],
+    "requirements": [],
+    "config_flow": false
+  }
